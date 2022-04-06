@@ -9,7 +9,7 @@ from datetime import datetime, timedelta
 st.set_page_config(page_title="Crypto Prices", page_icon="📈")
 
 # TITLES AND SUBTITLES
-st.title("Crypto Daily Prices")
+st.title("₿ Crypto Daily Prices 🤑")
 st.subheader("Main Dashboard")
 
 # CRYPTO TICKER
